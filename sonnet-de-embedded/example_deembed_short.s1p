@@ -1,0 +1,9 @@
+! Sonnet Data File
+! From: emgraph Version : 16.56
+! From Emgraph Data: example_deembed_short
+! Data File Written: 02/12/2021 14:27:29
+!< HDATE 02/12/2021 10:25:07
+!< MDATE 02/12/2021 10:25:07
+# GHZ S MA R 50.00000
+0.10000000 0.998649 167.88
+!< P1 F=0.1 Eeff=(3.31832661 -0.0798782) Z0=(50.702332 0.29717952) R=57.641524 C=0.42203439 

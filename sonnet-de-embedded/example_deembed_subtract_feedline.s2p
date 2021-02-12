@@ -1,0 +1,8 @@
+! Sonnet Data File
+! From: emgraph Version : 16.56
+! From Emgraph Data: example_deembed_subtract_feedline
+! Data File Written: 02/12/2021 14:27:08
+!< HDATE 02/12/2021 11:14:35
+!< MDATE 02/12/2021 11:14:35
+# GHZ S MA R 50.00000
+0.10000000 0.035553 -96.48 0.995929 -3.220 0.995929 -3.220 0.035553 -96.48
